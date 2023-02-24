@@ -3,12 +3,12 @@
 
 ### How the Game works
 
-The game "NAO says" (based on Simon says) was developed for the "Long Night of Science Berlin" in 2022. <br>
-Before you start the program, you can choose in which language Nao the game starts automatically. <br>
-(You can also set how many tasks Nao plays with the participants if you wish.) <br>
-The robot briefly explains that if he says "Nao says: [Task]" you should imitate him <br>
-and if he doesn't say "Nao says" you shouldn't. After that, Nao plays the game with the participants. <br>
-75% of the time he says "Nao says" before a task. A maximum of 10 tasks are currently available. <br>
+The game "NAO says" (based on Simon says) was developed for the "Long Night of Science Berlin" in 2022. 
+Before you start the program, you can choose in which language Nao the game starts automatically.
+(You can also set how many tasks Nao plays with the participants if you wish.) 
+The robot briefly explains that if he says "Nao says: [Task]" you should imitate him 
+and if he doesn't say "Nao says" you shouldn't. After that, Nao plays the game with the participants. 
+75% of the time he says "Nao says" before a task. A maximum of 10 tasks are currently available. 
 These are run through in random order and are not repeated.
 
 
