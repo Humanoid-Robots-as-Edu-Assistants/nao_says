@@ -11,8 +11,6 @@ and if he doesn't say "Nao says" you shouldn't. After that, Nao plays the game w
 75% of the time he says "Nao says" before a task. A maximum of 10 tasks are currently available. <br>
 These are run through in random order and are not repeated.
 
-![nao_says_logic](https://user-images.githubusercontent.com/68842909/214524798-3dfa4a3e-7fe0-452b-97d7-46eae51e7834.PNG)
-
 
 ### What do you need?
 
@@ -22,6 +20,8 @@ You just need your Robot.
 
 We are currently not planning any further development. <br>
 Of course, the program can be expanded to include additional tasks.
+
+![nao_says_logic](https://user-images.githubusercontent.com/68842909/214524798-3dfa4a3e-7fe0-452b-97d7-46eae51e7834.PNG)
 
 ---
 
