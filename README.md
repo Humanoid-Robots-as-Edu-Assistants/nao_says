@@ -1,4 +1,4 @@
-# "NAO says" for NAO6 Robot [v.1.0]
+# "NAO says" for NAO robot [v.1.0]
 *This project supports 2 languages. It is available in german and english!*<br>
 
 ### How the Game works
