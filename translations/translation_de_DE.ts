@@ -20,6 +20,92 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle pose/behavior_layer1/keyframe1/Nao says</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Hallo</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle pose/behavior_layer1/keyframe1/Say (1)</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle-pose /Muscle pose/behavior_layer2/keyframe30/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ich bin voll stark!</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle-pose /Nao says</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Zeigt mir eure Muskeln!</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle-pose /praise</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Wau wir sind unbesiegbar.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle/behavior_layer1/keyframe1/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Muscle/behavior_layer1/keyframe1/Say (1)</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Peek-A-boo/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Versteckt euer Gesicht.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Peek-A-boo/peek-a-boo/behavior_layer2/keyframe60/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Kuck kuck</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Peek-A-boo/praise</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Uh, endlich kann ich euch wiedersehen.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Sax/Say</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -41,7 +127,7 @@
         <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Say</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Nao says:</source>
+            <source>Nao sagt:</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -86,7 +172,7 @@
         <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/Task monkey/Say</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>verhalte dich wie ein Affe.</source>
+            <source>Verhalte dich wie ein Affe.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -155,15 +241,6 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/smile/praise</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Aw guckt euch diese fröhlichen Gesichter an. </source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
         <name>behavior_1/behavior.xar:/Aufgaben (zufällig)/wave arms above head/Say</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -203,9 +280,35 @@
         <name>behavior_1/behavior.xar:/Ende</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Danke, dass ihr mit mir gespielt habt.</source>
+            <source>Danke, dass ihr mit mir gespielt habt. Wir sehen uns, tschüssi.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Macarena (1)/Say </name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Lasst uns den Macarena tanzen.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Macarena (1)/praise</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Wau wir können gut tanzen.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Muscle pose/behavior_layer1/keyframe1/Nao says</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Hallo</translation>
         </message>
     </context>
     <context>
@@ -214,18 +317,6 @@
             <source>Hello</source>
             <comment>Text</comment>
             <translation type="vanished">Hallo</translation>
-        </message>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Ich wünsche euch noch viel Spaß bei der langen Nacht der Wissenschaften. Tschüss</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>I wish you a lot of fun at the long night of science. bye bye</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
@@ -255,6 +346,14 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/peek-a-boo/behavior_layer2/keyframe60/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/random task/Air guitar/Say</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -268,6 +367,60 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Haha, that rocks. Lets move on.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/random task/Muscle-pose /Muscle pose/behavior_layer2/keyframe30/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>I am the strongest Nao!</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/random task/Muscle-pose /Nao says</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Show me your muscels.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/random task/Muscle-pose /praise</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Wau, we are unstoppable!</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/random task/Peek-A-boo/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Cover your face with your hands.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/random task/Peek-A-boo/peek-a-boo/behavior_layer2/keyframe60/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>I can not see you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/random task/Peek-A-boo/praise</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>You are prettier than I remember.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -409,15 +562,6 @@ You're really good at balancing.</source>
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/random task/smile/praise</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Aw look at this cute smile. Let us do an other one.</source>
-            <comment>Text</comment>
-            <translation type="unfinished"></translation>
-        </message>
-    </context>
-    <context>
         <name>behavior_1/behavior.xar:/random task/wave arms above head/Say</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -457,7 +601,7 @@ You're really good at balancing.</source>
         <name>behavior_1/behavior.xar:/thanks</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Thank you that you played with me.</source>
+            <source>Thank you that you played with me. See you, bye bye.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>

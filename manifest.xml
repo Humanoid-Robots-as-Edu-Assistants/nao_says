@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package installOnlyAtStartup="false" version="0.0.0" uuid="nao_says-624890">
+<package installOnlyAtStartup="false" uuid="nao_saysv13-c2c6f8" version="1.3.0">
  <names>
-  <name lang="en_US">Untitled</name>
+  <name lang="de_DE">nao says</name>
+  <name lang="en_US">nao says</name>
  </names>
+ <descriptions>
+  <description lang="de_DE">Ein Interaktionsspiel, bei welchem NAO Dinge vormacht und wenn der Roboter sagt "Nao sagt", müssen die Teilnehmer es ihm gleichtun.</description>
+  <description lang="en_US">An interaction game in which NAO shows actions and when the robot says "Nao says", the participants have to do the same.</description>
+ </descriptions>
  <supportedLanguages>
   <language>en_US</language>
   <language>de_DE</language>
@@ -18,4 +23,8 @@
    <permissions/>
   </behaviorContent>
  </contents>
+ <requirements>
+  <naoqiRequirement/>
+  <robotRequirement model="NAO"/>
+ </requirements>
 </package>
