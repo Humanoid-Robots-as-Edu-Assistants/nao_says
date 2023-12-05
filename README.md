@@ -1,7 +1,7 @@
 # "nao says" for NAO robot [v.1.3]
 *This project supports 2 languages. It is available in german and english!*<br>
 
-### How the Game works
+### How the Game works:
 
 The game "NAO says" (based on Simon says) was developed for the "Long Night of Science Berlin" in 2022. 
 Before you start the program, you can choose in which language Nao the game starts automatically.
@@ -12,7 +12,7 @@ and if he doesn't say "Nao says" you shouldn't. After that, Nao plays the game w
 These are run through in random order and are not repeated.
 
 
-### What do you need?
+### What do you need?:
 
 any NAO version
 
@@ -29,14 +29,17 @@ Of course, the program can be expanded to include additional tasks.
 
 ### Changelog
 <br>
-v1.3
+
+v1.3 <br>
 - fixed logic issue
 - edit speech speed (ger: 90 | eng: 85)
 - added new animations
-- added visual interaction trigger
+- added visual interaction trigger 
 
-v1.2
+
+v1.2 <br>
 - edit existing project for Long Night of Science Berlin 2023
 
-v1.1
+<br>
+v1.1 <br>
 - fixed logic issue
